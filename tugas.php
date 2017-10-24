@@ -5,7 +5,7 @@ class bangundatar{
 
 	function set_luaspersegi($bilangan1,$bilangan2,$s){
 		$this->sisi1  = $s;
-		 echo "<h1>Perhitungan bangun datar </h1>".'<br>';
+		 echo "<h1>Perhitungan bangundatar </h1>".'<br>';
 		 echo "=====================================";
 	}
 	function get_luaspersegi(){
